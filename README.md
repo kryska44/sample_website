@@ -9,4 +9,4 @@ this tutorial is devided into 4 parts:
 
 The website is developed with help of [GitHub](https://github.com/) and is available thanks to [GitHub pages](https://kryska44.github.io/sample_website/).
 
-![construction site](./images/under-construction.jpg "Under construction")
+![construction site](/images/under-construction.jpg "Under construction")
